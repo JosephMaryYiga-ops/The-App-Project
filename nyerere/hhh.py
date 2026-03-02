@@ -131,14 +131,7 @@ g
             sid = input("Enter Student ID to remove: ")
             system.remove_student(sid)
 
-        elif choice == "3":
-            sid = input("Enter Student ID: ")
-            student = system.find_student(sid)
-            if student:
-                course = input("Enter Course Name: ")
-                student.enroll_course(course)
-            else:
-                print("Student not found.")
+        gggggggggggggggggggggggggggggggg.")
 
         elif choice == "4":
             sid = input("Enter Student ID: ")
