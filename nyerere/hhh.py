@@ -115,8 +115,7 @@ def display_menu():
     print("6. Save & Exit")
 
 
-def main():
-    system = SchoolManagementSystem()
+g
 
     while True:
         display_menu()
