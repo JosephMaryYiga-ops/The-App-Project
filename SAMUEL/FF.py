@@ -14,7 +14,7 @@ int main(){
     printf("That shit costs $%.2f\n", price);
     printf("%.3f°C! Bro dats fuckin cold\n", temperature); 
 
-    return 0;
+    return 0;hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
 }
    
