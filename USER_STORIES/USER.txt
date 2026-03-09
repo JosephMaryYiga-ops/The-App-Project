@@ -1,0 +1,1 @@
+As a student, i want to create an account so that i can apply for internship placements.
